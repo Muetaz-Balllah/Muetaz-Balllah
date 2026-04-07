@@ -62,7 +62,7 @@ class MuetazQambar {
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muetaz-Balllah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muetaz-Balllah&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muetaz-Balllah&theme=tokyonight&hide_border=true&border_radius=10"  />
 </p>
 
 ---
